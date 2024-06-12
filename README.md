@@ -1,1 +1,1 @@
-## Project Name: Evi clinick block
+## Project Name: Evi Clinic block
